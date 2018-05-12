@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31411
     wikipedia: http://en.wikipedia.org/wiki/Howard_I._Chapelle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25544#The-Pioneer-Steamship-Savannah--A-Study-for-a-Scale-ModelUnited-States-National-Museum-Bullet_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2008-05-20'
 gutenberg_type: Text
